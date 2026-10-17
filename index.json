@@ -1,0 +1,11 @@
+{
+  "org": "surrealdb",
+  "repo": "surrealdb.py",
+  "versions": [
+    {
+      "commit": "4f2b9d784cbc7d5865c4c7aca48fcda4354a2ff1",
+      "tag": "v3.0.0-beta.10",
+      "parsed_at": "2026-10-17T21:59:52.626407+00:00"
+    }
+  ]
+}
