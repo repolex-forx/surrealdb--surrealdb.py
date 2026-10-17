@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/surrealdb/surrealdb.py/commit/4f2b9d784cbc7d5865c4c7aca48fcda4354a2ff1",
       "git:hexsha": "4f2b9d784cbc7d5865c4c7aca48fcda4354a2ff1",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v3.0.0-beta.10"
     },
     {
