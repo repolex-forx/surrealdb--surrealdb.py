@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/surrealdb/surrealdb.py/commit/4f2b9d784cbc7d5865c4c7aca48fcda4354a2ff1",
       "git:hexsha": "4f2b9d784cbc7d5865c4c7aca48fcda4354a2ff1",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v3.0.0-beta.10"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v3.0.0-beta.10",
+      "repolex:parsedAt": "2026-10-17T21:59:52.625750+00:00"
     },
     {
       "@id": "https://repolex.ai/r/surrealdb/surrealdb.py/commit/a03f4474d14253e5d95ae8c74cfef3063d36a868",
